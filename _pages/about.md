@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ODY room 016</p>
+    <p>ODY room 4-16</p>
     <p>École Polytechnique Fédérale de Lausanne</p>
     <p>Lausanne, Switzerland</p>
 
