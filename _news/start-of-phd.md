@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start my PhD at EPFL :smile: 
+I started my PhD at EPFL :smile: 
