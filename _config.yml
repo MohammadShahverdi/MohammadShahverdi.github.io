@@ -267,7 +267,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Shahverdikondori, Shaverdikondori, Shaverdikondori]
+  last_name: [Shahverdikondori, Shaverdikondori, ShaverdiKondori]
   first_name: [Mohammad, M.]
 
   style: apa
