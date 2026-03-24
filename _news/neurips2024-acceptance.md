@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first PhD paper, "QWO: Speeding Up Permutation-Based Causal Discovery in LiGAMs," has been accepted for presentation at NeurIPS 2024. 
+Our paper "QWO: Speeding Up Permutation-Based Causal Discovery in LiGAMs" has been accepted for presentation at NeurIPS 2024.

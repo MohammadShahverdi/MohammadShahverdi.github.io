@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new preprint, ["Best Group Identification in Multi-Objective Bandits"](https://arxiv.org/abs/2505.17869), is now available on arXiv.
+Our latest preprint, ["Best Group Identification in Multi-Objective Bandits"](https://arxiv.org/abs/2505.17869), is now on arXiv.

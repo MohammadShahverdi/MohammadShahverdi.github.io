@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our preprint on a new method of aligning human action videos is now published on [arxiv](https://arxiv.org/abs/2304.06841) 
+Our preprint on aligning human action videos is now available on [arXiv](https://arxiv.org/abs/2304.06841).

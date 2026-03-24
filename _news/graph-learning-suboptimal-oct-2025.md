@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new preprint, ["Graph Learning is Suboptimal in Causal Bandits"](https://arxiv.org/abs/2510.16811), is now available on arXiv.
+Our preprint ["Graph Learning is Suboptimal in Causal Bandits"](https://arxiv.org/abs/2510.16811) is now available on arXiv.

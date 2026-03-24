@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our QWO paper on speeding up causal discovery in linear Gaussian models is now published on arxiv. You can check the paper [here](https://arxiv.org/abs/2410.23155).
+The preprint version of our QWO paper on speeding up causal discovery in linear Gaussian models is now available on [arXiv](https://arxiv.org/abs/2410.23155).

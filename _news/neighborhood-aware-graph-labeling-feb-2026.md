@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new preprint, ["Neighborhood-Aware Graph Labeling Problem"](https://arxiv.org/abs/2602.08098), is now available on arXiv.
+Our new work on the ["Neighborhood-Aware Graph Labeling Problem"](https://arxiv.org/abs/2602.08098) is now available on arXiv.
