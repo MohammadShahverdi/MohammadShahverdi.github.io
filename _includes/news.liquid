@@ -28,6 +28,9 @@
         {% endfor %}
       </table>
     </div>
+    {% if include.limit and site.announcements.limit and news_size > site.announcements.limit %}
+      <p><a href="{{ '/news/' | relative_url }}">All news &rarr;</a></p>
+    {% endif %}
   {% else %}
     <p>No news so far...</p>
   {% endif %}
